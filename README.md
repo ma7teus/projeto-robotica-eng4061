@@ -11,4 +11,4 @@ Para a parte eletrônica, foi usado o microcontrolador Raspberry Pi Zero como ú
 
 Para a parte de controle, optamos por não utilizar os encoders nas rodas e nem implementar controle PID. Para contornar essa escolha, cada comando enviado pela interface não era composto por uma medida quantitativa, assim cada comando correspondia a pequenos passos/movimentos de cada um dos motores.   
 
-Quanto a montagem geral, concluímos que a versão final mostrou-se pouco organizada quanto ao manejo de fios e estruturação correta da alimentação. Para passos futuros, julgamos mais urgente uma melhor organização eletrônica bem como mais testes mecâncios para certificação de ações mais limpas e diretas do robô.
+Quanto a montagem geral, concluímos que a versão final mostrou-se pouco organizada quanto ao manejo de fios e estruturação correta da alimentação. Para passos futuros, julgamos mais urgente uma melhor organização eletrônica bem como mais testes mecânicos para certificação de ações mais limpas e diretas do robô.
